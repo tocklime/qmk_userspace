@@ -273,7 +273,8 @@
       "KC_NO",
       "KC_NO",
       "ANY(STN_NC)",
-      "KC_NO",
+      "ANY(STN_NC)",
+      "KC_TRNS",
       "KC_TRNS",
       "ANY(STN_A)",
       "ANY(STN_O)",
@@ -315,8 +316,7 @@
       "KC_NO",
       "KC_NO",
       "ANY(STN_E)",
-      "ANY(STN_U)",
-      "ANY(STN_N1)"
+      "ANY(STN_U)"
     ],
     [
       "KC_ESC",
