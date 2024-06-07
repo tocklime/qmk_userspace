@@ -2,5 +2,6 @@
     "userspace_version": "1.0",
     "build_targets": [
         ["input_club/ergodox_infinity", "tocklime"]
+        ["ergodox_ez/base", "tocklime"]
     ]
 }
