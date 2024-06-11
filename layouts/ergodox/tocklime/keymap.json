@@ -64,7 +64,7 @@
       "RCTL_T(KC_K)",
       "RSFT_T(KC_L)",
       "KC_SCLN",
-      "LGUI(KC_QUOT)",
+      "LGUI_T(KC_QUOT)",
       "KC_NO",
       "KC_N",
       "KC_M",
